@@ -18,3 +18,8 @@ h1{
     padding-left: 2%;
     
 }
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(Frame 56.jpg);
+    background-repeat: repeat;
+}
